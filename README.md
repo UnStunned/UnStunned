@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UnStunned
-- 👀 I’m interested in Frontend Web Development
-- 🌱 I’m currently learning HTML and CSS
+- 👀 I’m interested in Fullstack Web Development
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on anything that will teach me new things!
 - 📫 How to reach me kulkarnitheonly@gmail.com
 
